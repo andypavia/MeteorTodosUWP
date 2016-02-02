@@ -1,0 +1,1 @@
+C:\Users\apavia\dev\meteorOnPi\WindowsToDoRP2\WindowsToDoRP2\WindowsToDoRP2.jsproj;arm

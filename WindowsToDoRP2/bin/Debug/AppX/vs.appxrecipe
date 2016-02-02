@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KIRIL-DESKTOP</Machine>
+    <WindowsUser>kiseksen</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e85ec150-fbc0-4c33-a217-2c6fd3f6e5c2</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D7AA17CE2837D1954B87CD868B14FC102ADE9792E91DC7AC7FFBE918B06548BB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e85ec150-fbc0-4c33-a217-2c6fd3f6e5c2_1.0.0.0_neutral__ztz20nxghjvk8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e85ec150-fbc0-4c33-a217-2c6fd3f6e5c2_ztz20nxghjvk8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e85ec150-fbc0-4c33-a217-2c6fd3f6e5c2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=kiseksen</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-15T23:32:07.063</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\led_clean_600_by_600.gif">
+      <PackagePath>images\led_clean_600_by_600.gif</PackagePath>
+      <Modified>2016-01-13T23:25:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\led_white.png">
+      <PackagePath>images\led_white.png</PackagePath>
+      <Modified>2016-01-13T23:46:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\RaspberryPi.png">
+      <PackagePath>images\RaspberryPi.png</PackagePath>
+      <Modified>2016-01-15T22:13:26.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <Modified>2016-01-14T00:23:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\Square71x71Logo.scale-125.png">
+      <PackagePath>images\Square71x71Logo.scale-125.png</PackagePath>
+      <Modified>2016-01-14T00:27:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\Square71x71Logo.scale-150.png">
+      <PackagePath>images\Square71x71Logo.scale-150.png</PackagePath>
+      <Modified>2016-01-14T00:24:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\Square71x71Logo.scale-200.png">
+      <PackagePath>images\Square71x71Logo.scale-200.png</PackagePath>
+      <Modified>2016-01-14T00:19:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\Square71x71Logo.scale-400.png">
+      <PackagePath>images\Square71x71Logo.scale-400.png</PackagePath>
+      <Modified>2016-01-14T00:22:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\Wide310x150Logo.scale-400.png">
+      <PackagePath>images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-14T00:55:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2016-01-13T20:06:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-14T20:51:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-13T20:06:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-14T00:50:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-14T00:51:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-13T20:06:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-14T00:42:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\msapp-error.js">
+      <PackagePath>msapp-error.js</PackagePath>
+      <Modified>2016-01-15T23:00:48.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\msapp-error.css">
+      <PackagePath>msapp-error.css</PackagePath>
+      <Modified>2015-09-21T18:31:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\msapp-error.html">
+      <PackagePath>msapp-error.html</PackagePath>
+      <Modified>2015-09-21T18:31:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WindowsToDoRP2\WindowsToDoRP2\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-15T23:32:06.839</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
